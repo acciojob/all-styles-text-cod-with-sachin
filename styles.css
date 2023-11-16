@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+
+#abc{
+	width:200px;
+	background-color:purple;
+	 border-left: 5px solid green;
+	
+	padding:10px;
+	
+}
+
+
+#abcz{
+	text-size:20px;
+	color:white;
+	text-decoration:underline;
+	
+}
+
